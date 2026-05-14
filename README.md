@@ -1,2 +1,4 @@
 # Process-Map-Aftermarket-Service-departement
-This is an process map for a external changemanagement project for our schoolproject.
+This is a process map created by two business administration students for an industrial manufacturing company.
+
+The theme of this project is change management and generating more customer value.
